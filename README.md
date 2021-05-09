@@ -32,9 +32,9 @@ Pick a big number. 1,200,000,000,000,000,000,000,000 as the input results in 1.2
 
 This will cost some BNB. When the deployment is complete, your contract address will appear and become available on BSCScan. Here is the example from JohnCoin:
 
-Contract address: 0x8AF3eC13F7c9c5c870BA3fE014C55415D258b1e9
-BSC Scan (contract): https://bscscan.com/address/0x8AF3eC13F7c9c5c870BA3fE014C55415D258b1e9
-BSC Scan (coins): https://bscscan.com/token/0x8AF3eC13F7c9c5c870BA3fE014C55415D258b1e9
+- Contract address: 0x8AF3eC13F7c9c5c870BA3fE014C55415D258b1e9
+- BSC Scan (contract): https://bscscan.com/address/0x8AF3eC13F7c9c5c870BA3fE014C55415D258b1e9
+- BSC Scan (coins): https://bscscan.com/token/0x8AF3eC13F7c9c5c870BA3fE014C55415D258b1e9
 
 On the BSCScan contract page, you may verify the contract source code.
 
